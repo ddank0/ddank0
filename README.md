@@ -1,9 +1,9 @@
-<img  width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=fff49e&height=120&section=header"/>
+<img  width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=ffdc9c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff49e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Miranda;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdc9c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Miranda;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<img align="center"  width="49%"  height="195px"  src="https://github-readme-stats.vercel.app/api?username=ddank0&show_icons=true&count_private=true&hide_border=true&title_color=fff49e&icon_color=fff49e&text_color=c9d1d9&bg_color=0d1117"/> <img align="center" width="41%"  height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddank0&layout=compact&hide_border=true&title_color=fff49e&text_color=68b2a0&bg_color=0d1117" />
+	<img align="center"  width="49%"  height="195px"  src="https://github-readme-stats.vercel.app/api?username=ddank0&show_icons=true&count_private=true&hide_border=true&title_color=ffdc9c&icon_color=ffdc9c&text_color=c9d1d9&bg_color=0d1117"/> <img align="center" width="41%"  height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddank0&layout=compact&hide_border=true&title_color=ffdc9c&text_color=68b2a0&bg_color=0d1117" />
 </div>  
 
 <br>
@@ -14,4 +14,4 @@
 	<a  href = "mailto:gabrielmiranda.corp@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a> <a  href="https://www.linkedin.com/in/gabriel-miranda-06818a207/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  style="border-radius: 30px"  target="_blank"></a>
 </div>
 
-<img  width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=fff49e&height=120&section=footer"/>
+<img  width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=ffdc9c&height=120&section=footer"/>
